@@ -5,7 +5,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 Live Demo
 
-Try it out here: [Binary Calculator](https://thisal-d.github.io/Binary-Calculator)
+Try it out here: [Binary Calculator](https://thisal-d.github.io/binary-calculator)
 
 ![Screenshot](https://github.com/Thisal-D/Binary-Calculator/assets/93121062/71b5e054-6986-41ef-8bca-b6ed1020b6e7)
 
